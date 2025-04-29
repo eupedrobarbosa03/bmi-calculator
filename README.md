@@ -1,6 +1,6 @@
 ## BMI CALCULATOR 📌 ##
 
-- Project Page -> 🔗 [Password Generator](https://eupedrobarbosa03.github.io/bmi-calculator/)
+- Project Page -> 🔗 [BMI CALCULATOR](https://eupedrobarbosa03.github.io/bmi-calculator/)
 
 ## Features 💻 ##
 - ✅ Robust verification on code with messages personalized in interface.
