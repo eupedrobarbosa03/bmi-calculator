@@ -1,0 +1,22 @@
+@media screen and (max-width: 932px) {
+
+    #controller-imc-box {
+        width: 70%;
+        height: auto;
+    }
+}
+
+@media screen and (max-width: 490px) {
+    #controller-imc-box {
+        height: auto;
+        width: 75%;
+    }
+
+    #message-error {
+        top: 40%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+        font-size: .6rem;
+    }
+
+}
